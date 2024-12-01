@@ -39,3 +39,4 @@
 /home/saravanak/Documents/NetWebAPI/JwtWebApi/obj/Debug/net8.0/JwtWebApi.pdb
 /home/saravanak/Documents/NetWebAPI/JwtWebApi/obj/Debug/net8.0/JwtWebApi.genruntimeconfig.cache
 /home/saravanak/Documents/NetWebAPI/JwtWebApi/obj/Debug/net8.0/ref/JwtWebApi.dll
+/home/saravanak/Documents/NetWebAPI/JwtWebApi/obj/Debug/net8.0/JwtWebApi.sourcelink.json
